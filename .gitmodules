@@ -22,3 +22,6 @@
 [submodule "minishell"]
 	path = minishell
 	url = https://github.com/BWG31/minishell.git
+[submodule "CPP"]
+	path = CPP
+	url = https://github.com/BWG31/CPP.git
