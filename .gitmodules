@@ -16,3 +16,6 @@
 [submodule "minitalk"]
 	path = minitalk
 	url = https://github.com/BWG31/minitalk.git
+[submodule "Philosophers"]
+	path = Philosophers
+	url = https://github.com/BWG31/Philosophers.git
