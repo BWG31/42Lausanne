@@ -7,3 +7,6 @@
 [submodule "get_next_line"]
 	path = get_next_line
 	url = https://github.com/BWG31/get_next_line.git
+[submodule "FdF"]
+	path = FdF
+	url = https://github.com/BWG31/FdF.git
