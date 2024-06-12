@@ -19,3 +19,6 @@
 [submodule "Philosophers"]
 	path = Philosophers
 	url = https://github.com/BWG31/Philosophers.git
+[submodule "minishell"]
+	path = minishell
+	url = https://github.com/BWG31/minishell.git
