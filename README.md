@@ -16,4 +16,5 @@ A repository tracking all of my completed projects at 42Lausanne
 | [CPP](https://github.com/BWG31/CPP) | 2024-05-09 | ongoing | 100** | C++ introduction modules |
 
 \* *extra points awarded for optional bonuses (up to 25)*
+
 \*\* Average score (multiple modules). Maximum score including optional exercises is 100.
