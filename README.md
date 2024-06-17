@@ -13,7 +13,7 @@ A repository tracking all of my completed projects at 42Lausanne
 | [minitalk](https://github.com/BWG31/minitalk) | 2024-01-18 | 2024-01-22 | 125* | Data exchange with UNIX signals |
 | [philosophers](https://github.com/BWG31/philosophers) | 2024-02-01 | 2024-02-22 | 125* | Multithreading & Multiprocessing |
 | [minishell](https://github.com/BWG31/minishell) | 2024-02-22 | 2024-04-29 | 100 | Recreate a simple shell (bash) |
-| [CPP](https://github.com/BWG31/CPP) | 2024-05-09 | ongoing | 100** | Recreate a simple shell (bash) |
+| [CPP](https://github.com/BWG31/CPP) | 2024-05-09 | ongoing | 100** | C++ introduction modules |
 
 \* *extra points awarded for optional bonuses (up to 25)*
 \*\* Average score (multiple modules). Maximum score including optional exercises is 100.
